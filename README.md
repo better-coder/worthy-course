@@ -9,4 +9,4 @@
 - [上海交大 Advanced Distributed System](http://ipads.se.sjtu.edu.cn/courses/ads/index.shtml)
 - [MIT 6.S897: Large-Scale Systems](http://people.csail.mit.edu/matei/courses/2015/6.S897/)
 - [伯克利 CS262a: Advanced Topics in Computer Systems](http://people.eecs.berkeley.edu/~brewer/cs262/)
-- [MIT Distributed Systems](https://pdos.csail.mit.edu/6.824/)
+- [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/)
